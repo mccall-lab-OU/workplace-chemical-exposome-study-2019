@@ -1,0 +1,284 @@
+SampleID,Building_Name,Main_Area,Main_Area_short,Main_Area_simplified_for_PERMANOVA,FloorVSnotFloor_for_PERMANOVA,Area_details,Material,Material_simplified,Material_simplified_PERMANOVA,BuildingType
+blank_noSwab_mid,blank_noSwab,blank_noSwab,blank_noSwab,blank_noSwab,other,blank_noSwab,blank_noSwab,blank_noSwab,blank_noSwab,blank_noSwab
+blank_noSwab_mid_180917234129,blank_noSwab,blank_noSwab,blank_noSwab,blank_noSwab,other,blank_noSwab,blank_noSwab,blank_noSwab,blank_noSwab,blank_noSwab
+blank_noSwab_mid_180918055522,blank_noSwab,blank_noSwab,blank_noSwab,blank_noSwab,other,blank_noSwab,blank_noSwab,blank_noSwab,blank_noSwab,blank_noSwab
+blank_noSwab_mid_180918120910,blank_noSwab,blank_noSwab,blank_noSwab,blank_noSwab,other,blank_noSwab,blank_noSwab,blank_noSwab,blank_noSwab,blank_noSwab
+blank_noSwab_mid_180918182258,blank_noSwab,blank_noSwab,blank_noSwab,blank_noSwab,other,blank_noSwab,blank_noSwab,blank_noSwab,blank_noSwab,blank_noSwab
+blank_noSwab_mid_180919003642,blank_noSwab,blank_noSwab,blank_noSwab,blank_noSwab,other,blank_noSwab,blank_noSwab,blank_noSwab,blank_noSwab,blank_noSwab
+blank_noSwab_mid_180919063708,blank_noSwab,blank_noSwab,blank_noSwab,blank_noSwab,other,blank_noSwab,blank_noSwab,blank_noSwab,blank_noSwab,blank_noSwab
+blank_noSwab_mid_180919130413,blank_noSwab,blank_noSwab,blank_noSwab,blank_noSwab,other,blank_noSwab,blank_noSwab,blank_noSwab,blank_noSwab,blank_noSwab
+blank_noSwab_mid_180919132234,blank_noSwab,blank_noSwab,blank_noSwab,blank_noSwab,other,blank_noSwab,blank_noSwab,blank_noSwab,blank_noSwab,blank_noSwab
+blank_noSwab_mid_180919193628,blank_noSwab,blank_noSwab,blank_noSwab,blank_noSwab,other,blank_noSwab,blank_noSwab,blank_noSwab,blank_noSwab,blank_noSwab
+blank_noSwab_mid_180920020336,blank_noSwab,blank_noSwab,blank_noSwab,blank_noSwab,other,blank_noSwab,blank_noSwab,blank_noSwab,blank_noSwab,blank_noSwab
+blank_swab_end,blank_swab,blank_swab,blank_swab,blank_swab,other,blank_swab,blank_swab,blank_swab,blank_swab,blank_swab
+blank_swab_mid,blank_swab,blank_swab,blank_swab,blank_swab,other,blank_swab,blank_swab,blank_swab,blank_swab,blank_swab
+blank_swab_mid_180918024820,blank_swab,blank_swab,blank_swab,blank_swab,other,blank_swab,blank_swab,blank_swab,blank_swab,blank_swab
+blank_swab_mid_180918084856,blank_swab,blank_swab,blank_swab,blank_swab,other,blank_swab,blank_swab,blank_swab,blank_swab,blank_swab
+blank_swab_mid_180918151601,blank_swab,blank_swab,blank_swab,blank_swab,other,blank_swab,blank_swab,blank_swab,blank_swab,blank_swab
+blank_swab_mid_180918212952,blank_swab,blank_swab,blank_swab,blank_swab,other,blank_swab,blank_swab,blank_swab,blank_swab,blank_swab
+blank_swab_mid_180919033017,blank_swab,blank_swab,blank_swab,blank_swab,other,blank_swab,blank_swab,blank_swab,blank_swab,blank_swab
+blank_swab_mid_180919095718,blank_swab,blank_swab,blank_swab,blank_swab,other,blank_swab,blank_swab,blank_swab,blank_swab,blank_swab
+blank_swab_mid_180919162931,blank_swab,blank_swab,blank_swab,blank_swab,other,blank_swab,blank_swab,blank_swab,blank_swab,blank_swab
+blank_swab_mid_180919224326,blank_swab,blank_swab,blank_swab,blank_swab,other,blank_swab,blank_swab,blank_swab,blank_swab,blank_swab
+blank_swab_start,blank_swab,blank_swab,blank_swab,blank_swab,other,blank_swab,blank_swab,blank_swab,blank_swab,blank_swab
+blank_swab_start2,blank_swab,blank_swab,blank_swab,blank_swab,other,blank_swab,blank_swab,blank_swab,blank_swab,blank_swab
+P1_A1,Physical_Sciences,stair_handrail,stair_handrail,stair_handrail,other,"bottom_Second to third floor from main lobby, right side",metal,metal,metal,teaching
+P1_A10,Physical_Sciences,couch_Rarmrest,couch_Rarmrest,couch,other,couch2,Wood,wood,wood,teaching
+P1_A11,Physical_Sciences,couch_Rarmrest,couch_Rarmrest,couch,other,couch3,cloth,cloth,cloth,teaching
+P1_A12,Physical_Sciences,blank,blank,blank,other,blank,blank,blank,blank,teaching
+P1_A2,Physical_Sciences,stair_handrail,stair_handrail,stair_handrail,other,"middle_Second to third floor from main lobby, right side",metal,metal,metal,teaching
+P1_A3,Physical_Sciences,stair_handrail,stair_handrail,stair_handrail,other,"top_Second to third floor from main lobby, right side",metal,metal,metal,teaching
+P1_A4,Physical_Sciences,elevator_DoorClose,elevator_Button,elevator_Button,other,Doorclose,metal,metal,metal,teaching
+P1_A5,Physical_Sciences,elevator_callButton,elevator_Button,elevator_Button,other,callButton,metal,metal,metal,teaching
+P1_A6,Physical_Sciences,elevator_floorButton,elevator_Button,elevator_Button,other,floorButton,metal,metal,metal,teaching
+P1_A7,Physical_Sciences,elevatorFloor,floor,floor,floor,underButtons,cloth,cloth,cloth,teaching
+P1_A8,Physical_Sciences,elevatorFloor,floor,floor,floor,middlePart,cloth,cloth,cloth,teaching
+P1_A9,Physical_Sciences,couch_Rarmrest,couch_Rarmrest,couch,other,couch1,Wood,wood,wood,teaching
+P1_B1,Physical_Sciences,floor_addIfOfficeOrLab,floor,floor,floor,room_nbr_306,metal,metal,metal,teaching
+P1_B10,Physical_Sciences,floor_addIfOfficeOrLab,floor,floor,floor,room_nbr_405,metal,metal,metal,teaching
+P1_B11,Physical_Sciences,floor_addIfOfficeOrLab,floor,floor,floor,room_nbr_304,metal,metal,metal,teaching
+P1_B12,Physical_Sciences,blank,blank,blank,other,blank,blank,blank,blank,teaching
+P1_B2,Physical_Sciences,floor_addIfOfficeOrLab,floor,floor,floor,room_nbr_310,metal,metal,metal,teaching
+P1_B3,Physical_Sciences,floor_addIfOfficeOrLab,floor,floor,floor,room_nbr_309,metal,metal,metal,teaching
+P1_B4,Physical_Sciences,floor_addIfOfficeOrLab,floor,floor,floor,room_nbr_305,metal,metal,metal,teaching
+P1_B5,Physical_Sciences,floor_addIfOfficeOrLab,floor,floor,floor,room_nbr_303,metal,metal,metal,teaching
+P1_B6,Physical_Sciences,floor_addIfOfficeOrLab,floor,floor,floor,room_nbr_307,metal,metal,metal,teaching
+P1_B7,Physical_Sciences,floor_addIfOfficeOrLab,floor,floor,floor,room_nbr_438,metal,metal,metal,teaching
+P1_B8,Physical_Sciences,floor_addIfOfficeOrLab,floor,floor,floor,room_nbr_435,metal,metal,metal,teaching
+P1_B9,Physical_Sciences,floor_addIfOfficeOrLab,floor,floor,floor,room_nbr_433,metal,metal,metal,teaching
+P1_C1,Physical_Sciences,door_handle_labOrOffice,handle,handle,other,room_nbr_209,metal,metal,metal,teaching
+P1_C10,Physical_Sciences,buildingMap,buildingMap,buildingMap,other,location_Floor 1 by Tower Elevators,plastic,plastic,plastic,teaching
+P1_C11,Physical_Sciences,Male Statue,Male Statue,other,other,Male statue in 2nd Floor lobby of PHSC,Wood,wood,wood,teaching
+P1_C12,Physical_Sciences,blank,blank,blank,other,blank,blank,blank,blank,teaching
+P1_C2,Physical_Sciences,door_handle_labOrOffice,handle,handle,other,room_nbr_306,metal,metal,metal,teaching
+P1_C3,Physical_Sciences,door_handle_labOrOffice,handle,handle,other,room_nbr_434,metal,metal,metal,teaching
+P1_C4,Physical_Sciences,building_door_handle,handle,handle,other,inner_most_doorLocation_Floor 1,metal,metal,metal,teaching
+P1_C5,Physical_Sciences,building_door_handle,handle,handle,other,inner_most_doorLocation_Floor 2,metal,metal,metal,teaching
+P1_C6,Physical_Sciences,building_door_handle,handle,handle,other,inner_most_doorLocation_Floor 2,metal,metal,metal,teaching
+P1_C7,Physical_Sciences,floor_by_exit,floor,floor,floor,location_Floor 2,Tile(Stone),Tile(Stone),other,teaching
+P1_C8,Physical_Sciences,floor_by_exit,floor,floor,floor,location_Floor 1,Tile(linoleum),linoleum,linoleum,teaching
+P1_C9,Physical_Sciences,floor_by_exit,floor,floor,floor,location_Floor 1,rubber,rubber,other,teaching
+P1_D1,Physical_Sciences,WomensRestroom_DoorHandle,handle,handle,other,location_Floor 2,Metal,metal,metal,teaching
+P1_D10,Physical_Sciences,Table,counter_table,counter_table,other,Round table in public seating area of 2nd Floor lobby in PHSC,Wood,wood,wood,teaching
+P1_D11,Physical_Sciences,Recycle Container Case,Recycle Container Case,other,other,Case enclosing multiple recycling containers. ,Wood,wood,wood,teaching
+P1_D12,Physical_Sciences,blank,blank,blank,other,blank,blank,blank,blank,teaching
+P1_D2,Physical_Sciences,MensRestroom_DoorHandle,handle,handle,other,location_Floor 2,Metal,metal,metal,teaching
+P1_D3,Physical_Sciences,water_fountain,water_fountain,water_fountain,other,location_Floor 2,Metal,metal,metal,teaching
+P1_D4,Physical_Sciences,water_fountain,water_fountain,water_fountain,other,location_Floor 4,Metal,metal,metal,teaching
+P1_D5,Physical_Sciences,garbage_can,garbage_can,garbage_can,other,top_can1_Floor 3,plastic,plastic,plastic,teaching
+P1_D6,Physical_Sciences,garbage_can,garbage_can,garbage_can,other,top_can2_Floor 4,plastic,plastic,plastic,teaching
+P1_D7,Physical_Sciences,Floor 4 floor under water fountain,floor,floor,floor,Floor under water fountain on Floor 4,tile,linoleum,linoleum,teaching
+P1_D8,Physical_Sciences,Female Statue,Female Statue,other,other,Female Statue in 2nd floor lobby of PHSC,Wood,wood,wood,teaching
+P1_D9,Physical_Sciences,Table,counter_table,counter_table,other,Square table in public seating area of 2nd Floor lobby in PHSC,Wood,wood,wood,teaching
+P2_A1,SRTC,stair_handrail,stair_handrail,stair_handrail,other,main_staircase_bottom,wood,wood,wood,research
+P2_A10,SRTC,couch_Rarmrest,couch_Rarmrest,couch,other,couch3_left_chair,leather,leather,leather,research
+P2_A11,SRTC,elevator_floorButton,elevator_Button,elevator_Button,other,floorButton,plastic,plastic,plastic,research
+P2_A12,SRTC,blank,blank,blank,other,blank,blank,blank,blank,research
+P2_A2,SRTC,stair_handrail,stair_handrail,stair_handrail,other,main_staircase_middle,wood,wood,wood,research
+P2_A3,SRTC,stair_handrail,stair_handrail,stair_handrail,other,main_staircase_top,wood,wood,wood,research
+P2_A4,SRTC,elevator_DoorClose,elevator_Button,elevator_Button,other,Doorclose,plastic,plastic,plastic,research
+P2_A5,SRTC,elevator_callButton,elevator_Button,elevator_Button,other,callButton,plastic,plastic,plastic,research
+P2_A6,SRTC,elevatorFloor,floor,floor,floor,underButtons,carpet,cloth,cloth,research
+P2_A7,SRTC,elevatorFloor,floor,floor,floor,middlePart,carpet,cloth,cloth,research
+P2_A8,SRTC,couch_Rarmrest,couch_Rarmrest,couch,other,couch1_center,leather,leather,leather,research
+P2_A9,SRTC,couch_Rarmrest,couch_Rarmrest,couch,other,couch2_right_chair,leather,leather,leather,research
+P2_B1,SRTC,floor_office,floor,floor,floor,1050,carpet,cloth,cloth,research
+P2_B10,SRTC,floor_lab,floor,floor,floor,2050,tile,linoleum,linoleum,research
+P2_B11,SRTC,floor_lab,floor,floor,floor,2030,carpet,cloth,cloth,research
+P2_B12,SRTC,blank,blank,blank,other,blank,blank,blank,blank,research
+P2_B2,SRTC,floor_lab,floor,floor,floor,1055A,concrete,concrete,other,research
+P2_B3,SRTC,floor_office,floor,floor,floor,1120,tile,linoleum,linoleum,research
+P2_B4,SRTC,floor_lab,floor,floor,floor,2140,carpet,cloth,cloth,research
+P2_B5,SRTC,floor_lab,floor,floor,floor,2150,carpet,cloth,cloth,research
+P2_B6,SRTC,floor_lab,floor,floor,floor,2130,carpet,cloth,cloth,research
+P2_B7,SRTC,floor_lab,floor,floor,floor,2130-far_door,tile,linoleum,linoleum,research
+P2_B8,SRTC,floor_lab,floor,floor,floor,2080,carpet,cloth,cloth,research
+P2_B9,SRTC,floor_office,floor,floor,floor,2100,carpet,cloth,cloth,research
+P2_C1,SRTC,door_handle_lab,handle,handle,other,2140,metal,metal,metal,research
+P2_C10,SRTC,buildingMap,buildingMap,buildingMap,other,near_elevator_1st_floor,plastic,plastic,plastic,research
+P2_C11,SRTC,core_class_touchscreen,core_class_touchscreen,other,other,touchscreen,glass,glass,other,research
+P2_C12,SRTC,blank,blank,blank,other,blank,blank,blank,blank,research
+P2_C2,SRTC,door_handle_lab,handle,handle,other,2150,metal,metal,metal,research
+P2_C3,SRTC,door_handle_office,handle,handle,other,1050,metal,metal,metal,research
+P2_C4,SRTC,building_door_handle,handle,handle,other,inner_most_main_exit,metal,metal,metal,research
+P2_C5,SRTC,building_door_handle,handle,handle,other,inner_most_side_exit,metal,metal,metal,research
+P2_C6,SRTC,building_door_handle,handle,handle,other,inner_most_delivery_entrance,metal,metal,metal,research
+P2_C7,SRTC,floor_by_exit,floor,floor,floor,main_exit,carpet,cloth,cloth,research
+P2_C8,SRTC,floor_by_exit,floor,floor,floor,side_exit,carpet,cloth,cloth,research
+P2_C9,SRTC,floor_by_exit,floor,floor,floor,delivery_entrance,carpet,cloth,cloth,research
+P2_D1,SRTC,WomensRestroom_DoorHandle,handle,handle,other,side_exit,metal,metal,metal,research
+P2_D10,SRTC,dining_area_table,counter_table,counter_table,other,table_near_core_classroom,wood,wood,wood,research
+P2_D11,SRTC,ancient_lab_1055A_doorhandle,handle,handle,other,outside_door_handle,metal,metal,metal,research
+P2_D12,SRTC,blank,blank,blank,other,blank,blank,blank,blank,research
+P2_D2,SRTC,MensRestroom_DoorHandle,handle,handle,other,side_exit,metal,metal,metal,research
+P2_D3,SRTC,water_fountain,water_fountain,water_fountain,other,side_exit,plastic,plastic,plastic,research
+P2_D4,SRTC,water_fountain,water_fountain,water_fountain,other,delivery_entrance,plastic,plastic,plastic,research
+P2_D5,SRTC,garbage_can,garbage_can,garbage_can,other,top_can1_dining_area,metal,metal,metal,research
+P2_D6,SRTC,garbage_can,garbage_can,garbage_can,other,top_can2_delivery_entrance,metal,metal,metal,research
+P2_D7,SRTC,freezer_room_floor,floor,floor,floor,outside_floor,carpet,cloth,cloth,research
+P2_D8,SRTC,freezer_room_doorhandle,handle,handle,other,outside_door_handle,metal,metal,metal,research
+P2_D9,SRTC,conference_room_table,counter_table,counter_table,other,center_table,wood,wood,wood,research
+P3_A1,5PP,stair_handrail,stair_handrail,stair_handrail,other,bottom,metal,metal,metal,office
+P3_A10,5PP,couch_Rarmrest,couch_Rarmrest,couch,other,couch2,wood,wood,wood,office
+P3_A11,5PP,couch_Rarmrest,couch_Rarmrest,couch,other,couch3,wood,wood,wood,office
+P3_A12,5PP,blank,blank,blank,other,blank,blank,blank,blank,office
+P3_A2,5PP,stair_handrail,stair_handrail,stair_handrail,other,middle,metal,metal,metal,office
+P3_A3,5PP,stair_handrail,stair_handrail,stair_handrail,other,top,metal,metal,metal,office
+P3_A4,5PP,elevator_DoorClose,elevator_Button,elevator_Button,other,Doorclose,plastic,plastic,plastic,office
+P3_A5,5PP,elevator_callButton,elevator_Button,elevator_Button,other,callButton,plastic,plastic,plastic,office
+P3_A6,5PP,elevator_floorButton,elevator_Button,elevator_Button,other,floorButton,plastic,plastic,plastic,office
+P3_A7,5PP,elevatorFloor,floor,floor,floor,underButtons,tile,linoleum,linoleum,office
+P3_A8,5PP,elevatorFloor,floor,floor,floor,middlePart,tile,linoleum,linoleum,office
+P3_A9,5PP,couch_Rarmrest,couch_Rarmrest,couch,other,couch1,wood,wood,wood,office
+P3_B1,5PP,floor_addIfOfficeOrLab,floor,floor,floor,3102,tile,linoleum,linoleum,office
+P3_B10,5PP,floor_addIfOfficeOrLab,floor,floor,floor,2019,tile,linoleum,linoleum,office
+P3_B11,5PP,floor_addIfOfficeOrLab,floor,floor,floor,2008,tile,linoleum,linoleum,office
+P3_B12,5PP,blank,blank,blank,other,blank,blank,blank,blank,office
+P3_B2,5PP,floor_addIfOfficeOrLab,floor,floor,floor,3201,tile,linoleum,linoleum,office
+P3_B3,5PP,floor_addIfOfficeOrLab,floor,floor,floor,3401,tile,linoleum,linoleum,office
+P3_B4,5PP,floor_addIfOfficeOrLab,floor,floor,floor,3301,tile,linoleum,linoleum,office
+P3_B5,5PP,floor_addIfOfficeOrLab,floor,floor,floor,3310,tile,linoleum,linoleum,office
+P3_B6,5PP,floor_addIfOfficeOrLab,floor,floor,floor,3215,tile,linoleum,linoleum,office
+P3_B7,5PP,floor_addIfOfficeOrLab,floor,floor,floor,3203,tile,linoleum,linoleum,office
+P3_B8,5PP,floor_addIfOfficeOrLab,floor,floor,floor,2100,tile,linoleum,linoleum,office
+P3_B9,5PP,floor_addIfOfficeOrLab,floor,floor,floor,2009,tile,linoleum,linoleum,office
+P3_C1,5PP,door_handle_labOrOffice,handle,handle,other,2600,blank,blank,blank,office
+P3_C10,5PP,buildingMap,buildingMap,buildingMap,other,corner of map,metal,metal,metal,office
+P3_C11,5PP,flag,flag,other,other,flagpole of indoor flag ,metal,metal,metal,office
+P3_C12,5PP,blank,blank,blank,other,blank,blank,blank,blank,office
+P3_C2,5PP,door_handle_labOrOffice,handle,handle,other,2300,tile,linoleum,linoleum,office
+P3_C3,5PP,door_handle_labOrOffice,handle,handle,other,2005,tile,linoleum,linoleum,office
+P3_C4,5PP,building_door_handle,handle,handle,other,inner_most_doorLocation,metal,metal,metal,office
+P3_C5,5PP,building_door_handle,handle,handle,other,inner_most_doorLocation,metal,metal,metal,office
+P3_C6,5PP,building_door_handle,handle,handle,other,inner_most_doorLocation,metal,metal,metal,office
+P3_C7,5PP,floor_by_exit,floor,floor,floor,middle indoor,carpet,cloth,cloth,office
+P3_C8,5PP,floor_by_exit,floor,floor,floor,out of the first door,carpet,cloth,cloth,office
+P3_C9,5PP,floor_by_exit,floor,floor,floor,corner of indoor,carpet,cloth,cloth,office
+P3_D1,5PP,WomensRestroom_DoorHandle,handle,handle,other,first floor restroom,metal,metal,metal,office
+P3_D10,5PP,couch,couch,couch,other,cushion1 ,knitty fabric,cloth,cloth,office
+P3_D11,5PP,couch,couch,couch,other,cushion2,knitty fabric,cloth,cloth,office
+P3_D12,5PP,blank,blank,blank,other,blank,blank,blank,blank,office
+P3_D2,5PP,MensRestroom_DoorHandle,handle,handle,other,first floor restroom,metal,metal,metal,office
+P3_D3,5PP,water_fountain,water_fountain,water_fountain,other,button,metal,metal,metal,office
+P3_D4,5PP,water_fountain,water_fountain,water_fountain,other,button,metal,metal,metal,office
+P3_D5,5PP,garbage_can,garbage_can,garbage_can,other,top_can1,metal,metal,metal,office
+P3_D6,5PP,garbage_can,garbage_can,garbage_can,other,top_can2,metal,metal,metal,office
+P3_D7,5PP,lounge1 ,lounge1 ,other,other,top,wood,wood,wood,office
+P3_D8,5PP,lounge2,lounge2,other,other,top,wood,wood,wood,office
+P3_D9,5PP,couch,couch,couch,other,dest top,plastic,plastic,plastic,office
+P4_A1,3PP,stair_handrail,stair_handrail,stair_handrail,other,bottom,metal,metal,metal,office
+P4_A10,3PP,couch_Rarmrest,couch_Rarmrest,couch,other,couch2,knit fabric,cloth,cloth,office
+P4_A11,3PP,couch_Rarmrest,couch_Rarmrest,couch,other,couch3,knit fabric,cloth,cloth,office
+P4_A12,3PP,blank,blank,blank,other,blank,blank,blank,blank,office
+P4_A2,3PP,stair_handrail,stair_handrail,stair_handrail,other,middle,metal,metal,metal,office
+P4_A3,3PP,stair_handrail,stair_handrail,stair_handrail,other,top,metal,metal,metal,office
+P4_A4,3PP,elevator_DoorClose,elevator_Button,elevator_Button,other,Doorclose,metal,metal,metal,office
+P4_A5,3PP,elevator_callButton,elevator_Button,elevator_Button,other,callButton,metal,metal,metal,office
+P4_A6,3PP,elevator_floorButton,elevator_Button,elevator_Button,other,floorButton,metal,metal,metal,office
+P4_A7,3PP,elevatorFloor,floor,floor,floor,underButtons,vinyl,plastic,plastic,office
+P4_A8,3PP,elevatorFloor,floor,floor,floor,middlePart,vinyl,plastic,plastic,office
+P4_A9,3PP,couch_Rarmrest,couch_Rarmrest,couch,other,couch1,knit fabric,cloth,cloth,office
+P4_B1,3PP,floor_addIfOfficeOrLab,floor,floor,floor,room 126 (vis lab),vinyl,plastic,plastic,office
+P4_B10,3PP,floor_addIfOfficeOrLab,floor,floor,floor,in front of door to stairs,carpet,cloth,cloth,office
+P4_B11,3PP,floor_addIfOfficeOrLab,floor,floor,floor,room 127A cafe door,vinyl,plastic,plastic,office
+P4_B12,3PP,blank,blank,blank,other,blank,blank,blank,blank,office
+P4_B2,3PP,floor_addIfOfficeOrLab,floor,floor,floor,room 132 (classroom back door),vinyl,plastic,plastic,office
+P4_B3,3PP,floor_addIfOfficeOrLab,floor,floor,floor,room 131 (think tank),vinyl,plastic,plastic,office
+P4_B4,3PP,floor_addIfOfficeOrLab,floor,floor,floor,room 132 (classroom front door),vinyl,plastic,plastic,office
+P4_B5,3PP,floor_addIfOfficeOrLab,floor,floor,floor,room 100 (Tom's office),vinyl,plastic,plastic,office
+P4_B6,3PP,floor_addIfOfficeOrLab,floor,floor,floor,room 112 (back fab lab door),carpet,cloth,cloth,office
+P4_B7,3PP,floor_addIfOfficeOrLab,floor,floor,floor,room 112 (main fab lab door),vinyl,plastic,plastic,office
+P4_B8,3PP,floor_addIfOfficeOrLab,floor,floor,floor,room 110B (ICCEW),carpet,cloth,cloth,office
+P4_B9,3PP,floor_addIfOfficeOrLab,floor,floor,floor,room 119 (gym),carpet,cloth,cloth,office
+P4_C1,3PP,door_handle_labOrOffice,handle,handle,other,room 112 (main fab lab),metal,metal,metal,office
+P4_C10,3PP,buildingMap,buildingMap,buildingMap,other,next to elevator,plastic,plastic,plastic,office
+P4_C11,3PP,counter top,counter_table,counter_table,other,outside fab lab kitchen counter top,plastic,plastic,plastic,office
+P4_C12,3PP,blank,blank,blank,other,blank,blank,blank,blank,office
+P4_C2,3PP,door_handle_labOrOffice,handle,handle,other,room 119 (gym),metal,metal,metal,office
+P4_C3,3PP,door_handle_labOrOffice,handle,handle,other,central doors to stairs,metal,metal,metal,office
+P4_C4,3PP,building_door_handle,handle,handle,other,main entrance front facing doors R,metal,metal,metal,office
+P4_C5,3PP,building_door_handle,handle,handle,other,main entrance front facing doors L,metal,metal,metal,office
+P4_C6,3PP,building_door_handle,handle,handle,other,main entrance rear facing doors R,metal,metal,metal,office
+P4_C7,3PP,floor_by_exit,floor,floor,floor,main entrance front facing doors R,carpet,cloth,cloth,office
+P4_C8,3PP,floor_by_exit,floor,floor,floor,main entrance front facing doors L,carpet,cloth,cloth,office
+P4_C9,3PP,floor_by_exit,floor,floor,floor,main entrance rear facing doors R,vinyl,plastic,plastic,office
+P4_D1,3PP,WomensRestroom_DoorHandle,handle,handle,other,first floor restroom,metal,metal,metal,office
+P4_D10,3PP,counter top,counter_table,counter_table,other,fab lab counter,wood,wood,wood,office
+P4_D11,3PP,fridge handle,handle,handle,other,inside fab lab,metal,metal,metal,office
+P4_D12,3PP,blank,blank,blank,other,blank,blank,blank,blank,office
+P4_D2,3PP,MensRestroom_DoorHandle,handle,handle,other,first floor restroom,metal,metal,metal,office
+P4_D3,3PP,water_fountain,water_fountain,water_fountain,other,button,metal,metal,metal,office
+P4_D4,3PP,water_fountain,water_fountain,water_fountain,other,surface,metal,metal,metal,office
+P4_D5,3PP,garbage_can,garbage_can,garbage_can,other,kitchen of fab lab,metal,metal,metal,office
+P4_D6,3PP,garbage_can,garbage_can,garbage_can,other,outside stairs/code lab,metal,metal,metal,office
+P4_D7,3PP,microwave handle,handle,handle,other,main cafe area,metal,metal,metal,office
+P4_D8,3PP,cafe counter,counter_table,counter_table,other,main cafe area,plastic,plastic,plastic,office
+P4_D9,3PP,keypad,keypad,other,other,room 100 (Tom's office),metal,metal,metal,office
+P5_A1,SLSRC,stair_handrail,stair_handrail,stair_handrail,other,bottom,metal,metal,metal,research
+P5_A10,SLSRC,couch_Rarmrest,couch_Rarmrest,couch,other,couch2 3rd floor,wooden armrest,wood,wood,research
+P5_A11,SLSRC,couch_Rarmrest,couch_Rarmrest,couch,other,couch3 3rd floor,leather,leather,leather,research
+P5_A12,SLSRC,blank,blank,blank,other,blank,blank,blank,blank,research
+P5_A2,SLSRC,stair_handrail,stair_handrail,stair_handrail,other,middle,metal,metal,metal,research
+P5_A3,SLSRC,stair_handrail,stair_handrail,stair_handrail,other,top,metal,metal,metal,research
+P5_A4,SLSRC,elevator_DoorClose,elevator_Button,elevator_Button,other,Doorclose,plastic button,plastic,plastic,research
+P5_A5,SLSRC,elevator_callButton,elevator_Button,elevator_Button,other,callButton,plastic button,plastic,plastic,research
+P5_A6,SLSRC,elevator_floorButton,elevator_Button,elevator_Button,other,floorButton,plastic button,plastic,plastic,research
+P5_A7,SLSRC,elevatorFloor,floor,floor,floor,underButtons,linoleum,linoleum,linoleum,research
+P5_A8,SLSRC,elevatorFloor,floor,floor,floor,middlePart,linoleum,linoleum,linoleum,research
+P5_A9,SLSRC,couch_Rarmrest,couch_Rarmrest,couch,other,couch1st floor,leather,leather,leather,research
+P5_B1,SLSRC,floor_Lab,floor,floor,floor,1300; floor on west wing 1st floor doesn't actually look like linoleum,linoleum?,linoleum,linoleum,research
+P5_B10,SLSRC,floor_Office,floor,floor,floor,1000; main office,linoleum?,linoleum,linoleum,research
+P5_B11,SLSRC,floor_Lab,floor,floor,floor,2050,linoleum,linoleum,linoleum,research
+P5_B12,SLSRC,blank,blank,blank,other,blank,blank,blank,blank,research
+P5_B2,SLSRC,floor_Lab,floor,floor,floor,1250,linoleum?,linoleum,linoleum,research
+P5_B3,SLSRC,floor_Lab,floor,floor,floor,1200,linoleum?,linoleum,linoleum,research
+P5_B4,SLSRC,floor_Office,floor,floor,floor,1210,linoleum?,linoleum,linoleum,research
+P5_B5,SLSRC,floor_Office,floor,floor,floor,1160,linoleum?,linoleum,linoleum,research
+P5_B6,SLSRC,floor_Lab,floor,floor,floor,3150; floor under very disgusting door handle,linoleum,linoleum,linoleum,research
+P5_B7,SLSRC,floor_Lab,floor,floor,floor,3550; unused/in transition lab,linoleum,linoleum,linoleum,research
+P5_B8,SLSRC,floor_stockroom,floor,floor,floor,1550,linoleum,linoleum,linoleum,research
+P5_B9,SLSRC,floor_Office,floor,floor,floor,1640,linoleum,linoleum,linoleum,research
+P5_C1,SLSRC,door_handle_lab,handle,handle,other,"3150; very disgusting, visible oily build-up on door handle",metal,metal,metal,research
+P5_C10,SLSRC,buildingMap,buildingMap,buildingMap,other,"1st floor around corner from elements, visibile if enter thru door by bus stop",plastic,plastic,plastic,research
+P5_C11,SLSRC,microwave_table,counter_table,counter_table,other,"table with microwave, next to elements; whole seasame seed was on table.  I did not take whole thing",wooden? laminate,plastic,plastic,research
+P5_C12,SLSRC,blank,blank,blank,other,blank,blank,blank,blank,research
+P5_C2,SLSRC,door_handle_lab,handle,handle,other,3550,metal,metal,metal,research
+P5_C3,SLSRC,door_handle_lab,handle,handle,other,"1700; NMR facility door, lots of people touch",metal,metal,metal,research
+P5_C4,SLSRC,building_door_handle,handle,handle,other,"inner_most_doorLocation; Exit on East wing by stockroom, door to courtyard exit",metal,metal,metal,research
+P5_C5,SLSRC,building_door_handle,handle,handle,other,inner_most_doorLocation; East exit of building; by bus-stop,metal,metal,metal,research
+P5_C6,SLSRC,building_door_handle,handle,handle,other,inner_most_doorLocation; North exit of building; exit to lloyd noble parking,metal,metal,metal,research
+P5_C7,SLSRC,floor_by_exit,floor,floor,floor,"Exit on East wing by stockroom, door to courtyard exit",linoleum,linoleum,linoleum,research
+P5_C8,SLSRC,floor_by_exit,floor,floor,floor,East exit of building; by bus-stop,linoleum,linoleum,linoleum,research
+P5_C9,SLSRC,floor_by_exit,floor,floor,floor,North exit of building; exit to lloyd noble parking,linoleum,linoleum,linoleum,research
+P5_D1,SLSRC,WomensRestroom_DoorHandle,handle,handle,other,"1st floor west wing, by front office",both metal part and wood surrounding (darkish area),both metal part and wood surrounding (darkish area),other,research
+P5_D10,SLSRC,2nd floor west lounge,2nd floor west lounge,other,other,chair arm rest,fabric,cloth,cloth,research
+P5_D11,SLSRC,2nd floor west lounge,2nd floor west lounge,other,other,white board,whiteboard,whiteboard,other,research
+P5_D12,SLSRC,blank,blank,blank,other,blank,blank,blank,blank,research
+P5_D2,SLSRC,MensRestroom_DoorHandle,handle,handle,other,"1st floor west wing, across from ms facility",both metal part and wood surrounding (darkish area),both metal part and wood surrounding (darkish area),other,research
+P5_D3,SLSRC,water_fountain,water_fountain,water_fountain,other,1st floor across from ms lab,metal,metal,metal,research
+P5_D4,SLSRC,water_fountain,water_fountain,water_fountain,other,1st floor across from copy room,metal,metal,metal,research
+P5_D5,SLSRC,garbage_can,garbage_can,garbage_can,other,top_can1_by cafe,"metal top of can; by elements, next to where coffee cart is",metal,metal,research
+P5_D6,SLSRC,garbage_can,garbage_can,garbage_can,other,top_can2_by exit,metal top of can; by exit to lloyd noble parking lot (north side of building),metal,metal,research
+P5_D7,SLSRC,1st floor directory by grand staircase,1st floor directory by grand staircase,other,other,1st floor directory,plastic,plastic,plastic,research
+P5_D8,SLSRC,2nd floor west wing stairwell door handle ,handle,handle,other,sampled from hallway side (people have been seen in gloves going up/down stairs from 2nd floor),metal,metal,metal,research
+P5_D9,SLSRC,building_door_handle,handle,handle,other,inner_most_doorLocation,West wing exit to courtyard across from main office.  ,metal,metal,research
+Pooled_QC_end,Pooled_QC,Pooled_QC,Pooled_QC,Pooled_QC,other,Pooled_QC,Pooled_QC,Pooled_QC,Pooled_QC,Pooled_QC
+Pooled_QC_mid,Pooled_QC,Pooled_QC,Pooled_QC,Pooled_QC,other,Pooled_QC,Pooled_QC,Pooled_QC,Pooled_QC,Pooled_QC
+Pooled_QC_mid_180917202117,Pooled_QC,Pooled_QC,Pooled_QC,Pooled_QC,other,Pooled_QC,Pooled_QC,Pooled_QC,Pooled_QC,Pooled_QC
+Pooled_QC_mid_180917232808,Pooled_QC,Pooled_QC,Pooled_QC,Pooled_QC,other,Pooled_QC,Pooled_QC,Pooled_QC,Pooled_QC,Pooled_QC
+Pooled_QC_mid_180918023503,Pooled_QC,Pooled_QC,Pooled_QC,Pooled_QC,other,Pooled_QC,Pooled_QC,Pooled_QC,Pooled_QC,Pooled_QC
+Pooled_QC_mid_180918054159,Pooled_QC,Pooled_QC,Pooled_QC,Pooled_QC,other,Pooled_QC,Pooled_QC,Pooled_QC,Pooled_QC,Pooled_QC
+Pooled_QC_mid_180918083541,Pooled_QC,Pooled_QC,Pooled_QC,Pooled_QC,other,Pooled_QC,Pooled_QC,Pooled_QC,Pooled_QC,Pooled_QC
+Pooled_QC_mid_180918114234,Pooled_QC,Pooled_QC,Pooled_QC,Pooled_QC,other,Pooled_QC,Pooled_QC,Pooled_QC,Pooled_QC,Pooled_QC
+Pooled_QC_mid_180918150246,Pooled_QC,Pooled_QC,Pooled_QC,Pooled_QC,other,Pooled_QC,Pooled_QC,Pooled_QC,Pooled_QC,Pooled_QC
+Pooled_QC_mid_180918180937,Pooled_QC,Pooled_QC,Pooled_QC,Pooled_QC,other,Pooled_QC,Pooled_QC,Pooled_QC,Pooled_QC,Pooled_QC
+Pooled_QC_mid_180918211632,Pooled_QC,Pooled_QC,Pooled_QC,Pooled_QC,other,Pooled_QC,Pooled_QC,Pooled_QC,Pooled_QC,Pooled_QC
+Pooled_QC_mid_180919002328,Pooled_QC,Pooled_QC,Pooled_QC,Pooled_QC,other,Pooled_QC,Pooled_QC,Pooled_QC,Pooled_QC,Pooled_QC
+Pooled_QC_mid_180919031656,Pooled_QC,Pooled_QC,Pooled_QC,Pooled_QC,other,Pooled_QC,Pooled_QC,Pooled_QC,Pooled_QC,Pooled_QC
+Pooled_QC_mid_180919062353,Pooled_QC,Pooled_QC,Pooled_QC,Pooled_QC,other,Pooled_QC,Pooled_QC,Pooled_QC,Pooled_QC,Pooled_QC
+Pooled_QC_mid_180919093042,Pooled_QC,Pooled_QC,Pooled_QC,Pooled_QC,other,Pooled_QC,Pooled_QC,Pooled_QC,Pooled_QC,Pooled_QC
+Pooled_QC_mid_180919125058,Pooled_QC,Pooled_QC,Pooled_QC,Pooled_QC,other,Pooled_QC,Pooled_QC,Pooled_QC,Pooled_QC,Pooled_QC
+Pooled_QC_mid_180919161610,Pooled_QC,Pooled_QC,Pooled_QC,Pooled_QC,other,Pooled_QC,Pooled_QC,Pooled_QC,Pooled_QC,Pooled_QC
+Pooled_QC_mid_180919192313,Pooled_QC,Pooled_QC,Pooled_QC,Pooled_QC,other,Pooled_QC,Pooled_QC,Pooled_QC,Pooled_QC,Pooled_QC
+Pooled_QC_mid_180919223005,Pooled_QC,Pooled_QC,Pooled_QC,Pooled_QC,other,Pooled_QC,Pooled_QC,Pooled_QC,Pooled_QC,Pooled_QC
+Pooled_QC_mid_180920015021,Pooled_QC,Pooled_QC,Pooled_QC,Pooled_QC,other,Pooled_QC,Pooled_QC,Pooled_QC,Pooled_QC,Pooled_QC
